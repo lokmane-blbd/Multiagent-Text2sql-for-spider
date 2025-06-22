@@ -34,7 +34,6 @@ Return a JSON object with:
 - "use_count_star": true if counting all rows, false if question refers to a specific or filtered column
 - "use_count_distinct": true if the question asks for:
     - "distinct"
-    - "different"
     - "unique"
     Otherwise false.
   DO NOT add any explanation, markdown, or formatting.
